@@ -37,7 +37,7 @@
 	min-weight: 100%;
 	width: auto;
 	height: auto;
-	z-index:-9999
+	z-index: -9999;
 }
 .nav___link{
 	display: inline-block;
