@@ -29,6 +29,15 @@
 .nav{
 	font-size: 16px;
 	text-transform: uppercase;
+.bgvideo {
+	position:fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-weight: 100%;
+	width: auto;
+	height: auto;
+	z-index:-9999
 }
 .nav___link{
 	display: inline-block;
